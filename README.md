@@ -1,6 +1,4 @@
-### Hello!! 😊
-
-## 🌱 I’m currently learning JavaScript
+## Hello!!! It's me André Silveira 😊
 
 <div align="center">
   <a href="https://github.com/andresilveira1">
