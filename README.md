@@ -1,4 +1,4 @@
-## <h1 align="center">Hello!!! I'm André Silveira 😊</h1>
+## <h1 align="center">Hello 👋!!! I'm André Silveira </h1>
 
 <div align="center">
   <a href="https://github.com/andresilveira1">
