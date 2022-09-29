@@ -1,6 +1,6 @@
 ## <h1 align="center">Hello 👋!!! I'm André Silveira </h1>
 
-<div style="display: flex">
+<div style="display: flex align-items: center">
   <div>
     <a href="https://github.com/andresilveira1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresilveira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
