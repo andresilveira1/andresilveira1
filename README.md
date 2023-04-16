@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🌱 Actually studying JavaScript, React and Nodejs.
+- 🌱 Actually studying JavaScript, React and Node.
 - 📚 Student of Explorer course at <a href="https://www.rocketseat.com.br/">Rocketseat.</a>
 - 🤓 My goal is to be a FullStack devoloper.
 
