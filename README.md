@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🌱 Actually studying JavaScript, React and Node.
+- 🌱 Actually studying JavaScript, ReactJS and NodeJS.
 - 📚 Student of Explorer course at <a href="https://www.rocketseat.com.br/">Rocketseat.</a>
 
 <br>
